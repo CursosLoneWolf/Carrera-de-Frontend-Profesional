@@ -1,2 +1,17 @@
 # Carrera-de-Frontend-Profesional
  Frontend es la carrera más demandada de la industria. Ve más allá de HTML5 y CSS3. Domina Javascript, Responsive Design, ECMAScript 6, diseño de UI, componentes, JSON, APIs y automatización.
+
+### La carrera de Frontend Profesional contiene
+
+Logo | Curso | Descripcion | Link | Respaldo
+------------ | ------------- | ----------- | ---------- | -----------
+![Curso de Programación Básica Logo](https://static.platzi.com/media/achievements/programacion-basica2x.png) | [Curso de Programación Básica](http://github.com/#) | Aprende desde cero a entender, leer y escribir código. Programar es tan esencial como leer. Crea arte interactivo, piensa como programador. | https://platzi.com/github/ | https://goo.gl/3T0Pdc
+![Curso profesional de Git y GitHub Logo](https://static.platzi.com/media/achievements/git-github2x.png) | [Curso profesional de Git y GitHub](http://github.com/#) | Entiende e implementa Git y Github en tu flujo de trabajo. Son el estándar de la industria para control de versiones de código y tus proyectos. De cero a avanzado. | 
+![Curso de Desarrollo Web Online Logo](https://static.platzi.com/media/achievements/desarrollo2x.png) | [Curso de Desarrollo Web Online](http://github.com/#) | Aprende desde cero a crear y maquetar sitios web. Con HTML5 y CSS3 crea la página web de tu producto e inicia tu carrera para ser un Frontend profesional. | 
+![Curso de Responsive Design Logo](https://static.platzi.com/media/achievements/responsive2x.png) | [Curso de Responsive Design](http://github.com/#) | Diseña y maqueta aplicaciones web con Responsive Design. Adapta tus sitios para que funcionen en cualquier pantalla, dispositivo y resolución con HTML5 y CSS3. | 
+![Curso de JavaScript y jQuery Logo](https://static.platzi.com/media/achievements/jquery2x.png) | [Curso de JavaScript y jQuery](http://github.com/#) | Programa en Javascript y jQuery todo lo necesario para crear sitios y apps web. Crea animaciones, conexiones a datos, efectos e interacción. | 
+![Curso Definitivo de JavaScript Logo](https://static.platzi.com/media/achievements/js_badge.png) | [Curso Definitivo de JavaScript](http://github.com/#) | Domina Javascript, el lenguaje más versátil y demandado de la actualidad, sé un Full Stack Javascript Developer. Aprende herramientas cómo Browserify, Gulp y Sass. Construye tu primer Single Page Application y escribe Javascript del futuro hoy compatible con todos los navegadores. | 
+![Curso Profesional de React.js Logo](https://static.platzi.com/media/achievements/reactj.png) | [Curso Profesional de React.js](http://github.com/#) | Desarrolla apps modulares en Javascript con React.js, la librería de más crecimiento en la web, creada por Facebook. Aprende desarrollo ágil de aplicaciones web con Flux y JSX. | 
+![Curso de Polymer Logo](https://static.platzi.com/media/achievements/polymer2x.png) | [Curso de Polymer](http://github.com/#) | Desarrolla rápido con Polymer de Google. Front-end basado en Web Components. Diseña con Material Design, programa una vez y pruebalo en móviles y escritorios. Sólo datos, JS y amor. | 
+![Curso de AngularJS Logo](https://static.platzi.com/media/achievements/angular2x.png) | [Curso de AngularJS](http://github.com/#) | Programa apps web en Javascript, conectalas a bases de datos y crea interfaces interactivas a toda velocidad, sin mucho código. Angular.js es un framework agil de desarrollo web. | 
+
